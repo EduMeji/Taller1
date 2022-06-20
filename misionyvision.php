@@ -19,7 +19,7 @@
   <h1 class="">Visión</h1>
   <br>
   <p class="">
-    Al 2022, ser la mejor concesionaria en el sector con nuestros productos, la mejor calidad de automoviles, camionetas, camiones y motos, la calidad de nuestros productos que ofrecemos, perfeccionar nuestros procesos, a través de una mejora continua, para lograr eficacia, eficiencia y productividad buscando alcanzar la excelencia, en beneficio y satisfacción de nuestros clientes, el compromiso, respeto, responsabilidad, calidad y calidez.
+    Al 2022, ser la mejor concesionaria en el sector con nuestros productos, la mejor calidad de automoviles, camionetas, camiones y motos, la calidad de nuestros productos que ofrecemos, perfeccionar nuestros procesos, a través de una mejora continua, para lograr eficacia, eficiencia y productividad buscando alcanzar la excelencia.
   </p>
 >
 </html>
