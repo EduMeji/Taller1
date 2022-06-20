@@ -31,9 +31,6 @@
         <li class="nav-item">
           <a class="nav-link  text-white" href="registro_clientes.php">Registro de Clientes</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link  text-white" href="directorio_ejecutivo.php">Directorio Ejecutivo</a>
-        </li>
       </ul>
       <form class="d-flex">
         <input class="form-control me-2" type="search" placeholder="buscar" aria-label="Search">
