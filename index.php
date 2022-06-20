@@ -7,7 +7,7 @@
     <title>Inicio</title>
 </head>
 <body>
-	<h1>Bienvenidos a nuestra concesionaria</h1>
+
 	<br>
 	<p>
 		Nuestra concesionaria les ofrece una variadead de vehiculos, usted puede escoger
@@ -26,7 +26,9 @@
 		<img src="img/bienvenida.jpg">
 	</div>
 	<br>
-	
+	<p>
+		Te acompañamos dentro de esta nueva experiencia y recuerda que solo en esta pagina web vas a poder encontrar los mejores vehiculos, te ofrecemos vehiculos de toda clase desde automoviles hasta camiones de todo precio, marca, combustible, automaticoas, caja de cambios, electricos y manuales.	
+	</p>
 	<div align="center">
 		<img  src=img/elecom.jpg">
 	</div>

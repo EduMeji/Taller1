@@ -32,16 +32,7 @@
     <label for="direcion" class="form-label">Direcion</label>
     <input type="text" class="form-control" id="direcion" onkeypress="return validar(event)" required>
   </div>
-  <div class="col-md-3">
-    <label for="validationDefault04" class="form-label">Estado civil</label>
-    <select class="form-select" id="validationDefault04" required>
-      <option selected disabled value="">Opciones</option>
-      <option>Soltero</option>
-      <option>Casado</option>
-      <option>Viudo</option>
-      <option>Divorsiado</option>
-    </select>
-  </div>
+
   <div class="col-md-3">
     <label for="fecha_n" class="form-label">Fecha de nacimiento</label>
     <input type="date" class="form-control" id="fecha_n" required>
