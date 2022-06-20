@@ -17,11 +17,5 @@
   </p>
   <br>
   <br>
-  <p class="">
-    Al 2022, ser la mejor concesionaria en el sector con nuestros productos, la mejor calidad de automoviles, camionetas, camiones y motos, la calidad de nuestros productos que ofrecemos, perfeccionar nuestros procesos, a través de una mejora continua, para lograr eficacia, eficiencia y productividad buscando alcanzar la excelencia, en beneficio y satisfacción de nuestros clientes, el compromiso, respeto, responsabilidad, calidad y calidez.
-  </p>
-  <p>
-		Te acompañamos dentro de esta nueva experiencia y recuerda que solo en esta pagina web vas a poder encontrar los mejores vehiculos, te ofrecemos vehiculos de toda clase desde automoviles hasta camiones de todo precio, marca, combustible, automaticoas, caja de cambios, electricos y manuales.	
-	</p>
 >
 </html>

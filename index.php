@@ -9,12 +9,7 @@
 <body>
 
 	<br>
-	<p>
-		Nuestra concesionaria les ofrece una variadead de vehiculos, usted puede escoger
-		desde automoviles hasta camiones, tenemos de diferentes modelos, marcas, precios,
-		colores, somos una de las mejores concesionarias ya que tenemos vehiculos de todo
-		tipo. 
-	</p>
+	
 	<div align="center">
 		<img src="img/cliente.jpg">
 	</div>	
