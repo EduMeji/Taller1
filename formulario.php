@@ -16,11 +16,6 @@
   <center><h1 class=" col-8 bg-dark text-white">Formulario datos personales</h1></center>
  <form class="row g-3">
 
-  <div class="col-md-3">
-    <label for="nombre" class="form-label">Nombre</label>
-    <input type="text" name="nombre" id="nombre"
-     onkeypress="return validar(event)" class="form-control" maxlength="25" placeholder="Ingrese nombres" required>
-  </div>
 
   <div class="col-md-3">
     <label for="apellido" class="form-label">Apellido</label>
